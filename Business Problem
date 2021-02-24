@@ -1,0 +1,19 @@
+1. BUSINESS PROBLEM
+
+1.1 Introduction
+
+The purpose of this project is to help people better understand their future neighbourhood when making a big life decision; relocating! The analysis produced in this project will help people making smart and efficient decisions when deciding on a neighborhood to call home in Scarborough, Toronto.
+
+Migration into Canada affects a very large pol of people who, prior to this analysis, need to undertake a tremendous amount of personal research to make a decision on where to locate their family. This project is for those people who are looking for an easy, one-stop shop to decide what suburb might appeal to them. This decision could be influenced by a range of available facilities in the area such as cafes, schools, supermarkets, malls, theatres or even hospitals.
+
+This project aims to analyse a range of features across neighborhoods in Scarborough for people migrating to the area. The features that will be comparitavely analysed include median housing prices, school ratings, crime rates, road connectivity, weather conditions, emergency management, water utilities and recreational facilities.
+
+It is hoped that this analysis will assist potential migrants better understand the neighborhood before moving to Toronto.
+
+1.2 The Problem Being Solved
+
+The major purpose of this project is to create an aggregated source of information about the neighborhoods in the Scarborough area. This data will not only enable potential migrants to better understand various neighborhoods, but will also display comparitave analysis that will enable people considering relocating to the area to directly compare one suburb to another. 
+
+1.3 Background on the Location & Migration
+
+Scarborough is a overwhelmingly popular destination for new migrants in Canada. As a result, it is one of the most diverse and multicultural areas in the Greater Toronto Area. Although migration is a contentious political topic, the general trend of migration into Canada will continue into the foreseeable future.
