@@ -1,0 +1,22 @@
+2 DATA REQUIRED
+
+2.1 GEOGRAPHIC DATA
+
+The first set of data utilised in this project is the Scarborough region information available on Wikipedia. This data provides us with zip codes and longitude & latitude coordinates. 
+
+2.2. FACILITIES DATA
+
+To assess a neighborhood for livability, we first need to understand the facilities on offer in each suburb.
+
+In order to gain this information, this project will utilise "Foursquare" locational information. Foursquare is a location data provider with information about all manner of venues and events within an area of interest. This information includes venue names, locations, menus and even photos. Due to the extensive amounts of data available, the Foursquare  platform will be used as to retrieve all data in relation to facilities within a given area.
+
+After determing the list of neighborhoods in the Scarborough area, our data analysis workbook will be connected to Foursquare via API to gather information about venues inside all rleevant neighborhoods. The information obtained from Foursqaure, per venue, is as follows:
+
+1. Neighborhood
+2. Neighborhood Latitude
+3. Neighborhood Longitude
+4. Venue
+5. Name of the venue
+6. Venue Latitude
+7. Venue Longitude
+8. Venue Category
